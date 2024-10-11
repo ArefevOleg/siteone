@@ -1,6 +1,6 @@
 import React from 'react';
 
-export const Inout = () => {
+export const Input = () => {
     return (
         <div>
 
